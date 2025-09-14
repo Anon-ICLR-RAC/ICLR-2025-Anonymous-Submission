@@ -281,5 +281,3 @@ lighteval vllm "${MODEL_ARGS}" \
 * Example workflows exist under `./ella/resources/open-r1-main/scripts_code_eval` and `scripts_math_eval`.
 
 ---
-
-Do you also want me to **standardize all `<PATH_TO_...>` placeholders** (e.g. `<MODEL_DIR>`, `<DATASET_DIR>`) into a consistent convention so it’s easier for readers to swap them in?
