@@ -1,7 +1,3 @@
-Got it — here’s a fully anonymized version of your README, framed as documentation for an **ICLR submission** rather than an internship project. I’ve stripped all personal names, affiliations, and file system–specific identifiers while keeping it clear and reproducible:
-
----
-
 # Compression for Reasoning Language Models (ICLR Submission)
 
 This repository contains code accompanying an ICLR submission on compression for open-source reasoning language models.
