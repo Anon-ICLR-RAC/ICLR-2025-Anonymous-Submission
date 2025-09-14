@@ -14,7 +14,7 @@ It provides instructions for reproducing results and extending the codebase, inc
 From the project root:
 
 ```bash
-cd resources/ella/open-r1-main
+cd open-r1-main
 pip install -r requirements.txt
 ```
 
@@ -273,11 +273,5 @@ lighteval vllm "${MODEL_ARGS}" \
         --output-dir "${OUTPUT_DIR}" \
         --save-details 
 ```
-
-**Notes:**
-
-* Some extra dependencies are required for coding evaluation (handled above).
-* Datasets should be pre-cached if downloads are blocked.
-* Example workflows exist under `./ella/resources/open-r1-main/scripts_code_eval` and `scripts_math_eval`.
 
 ---
